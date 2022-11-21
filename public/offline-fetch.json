@@ -1,0 +1,21 @@
+{
+    "d": [
+      {
+        "i": {
+          "height": 512,
+          "imageUrl": "/logo512.png",
+          "width": 512
+        },
+        "id": "1",
+        "l": "Offline",
+        "q": "Internet unavailable",
+        "qid": "Internet unavailable",
+        "rank": 0,
+        "s": "Internet unavailable",
+        "y": 2022,
+        "yr": "2022"
+      }
+    ],
+    "q": "Naruto",
+    "v": 1
+  }
